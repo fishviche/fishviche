@@ -1,8 +1,6 @@
-### Hi there 👋
-
 <div id="header" align="center">
-  <img src="[https://giphy.com/gifs/pudgypenguins-pudgy-penguin-penguins-CuuSHzuc0O166MRfjt](https://giphy.com/gifs/pudgypenguins-pudgy-penguin-penguins-CuuSHzuc0O166MRfjt)" width="200" />
-  <iframe src="https://giphy.com/embed/CuuSHzuc0O166MRfjt" width="480" height="480" frameBorder="0"></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-pudgy-penguin-penguins-CuuSHzuc0O166MRfjt">via GIPHY</a></p>
+  <h1 align="center">Hi 👋, I'm Fishviche</h1>
+  <h3 align="center">A passionate backend developer from Peru. I am experienced in using various programming languages such as Python or Node.js, depending on the project's requirements.</h3>
 </div>
 
 ---
