@@ -8,7 +8,6 @@
 - 🔭 I’m currently working on [Aputek](https://aputek.com/)
 - 💬 Ask me about **Python, Javascript**
 - 📫 How to reach me: **evalerianom@gmail.com**
--->
 
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
